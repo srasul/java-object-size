@@ -1,7 +1,6 @@
 package com.srasul;
 
 import org.openjdk.jol.info.ClassLayout;
-import org.openjdk.jol.info.GraphLayout;
 
 /**
  * Hello world!
